@@ -2,6 +2,9 @@ drop DATABASE lkshop
 GO
 CREATE DATABASE lkshop
 GO
+
+
+
 use lkshop
 GO
 CREATE TABLE ncc(
